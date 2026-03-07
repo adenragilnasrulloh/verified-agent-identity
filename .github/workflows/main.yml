@@ -6,11 +6,11 @@ on:
       agent_name:
         description: 'dofunshittt'
         required: true
-        default: 'finder'
+        default: 'dofunshittt'
       agent_description:
         description: 'dofunshittt'
         required: true
-        default: 'finder AI Agent'
+        default: 'dofunshittt AI Agent'
 
 jobs:
   verify:
